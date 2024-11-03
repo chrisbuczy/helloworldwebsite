@@ -1,0 +1,16 @@
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+nav {
+     position: fixed;
+     background-color: grey;
+     width: 100%;
+     
+}
+
+.topButton {
+}
