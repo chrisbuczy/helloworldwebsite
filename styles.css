@@ -19,9 +19,7 @@ nav {
 
 .topButton {
     color: white;
-    background-color: black;
-    border: solid;
-    border-color: whitesmoke;
+    background-color: darkgreen;
     border-width: 2px;
     height: 30px;
 }
@@ -36,8 +34,9 @@ nav {
 
 .mainText {
     position: absolute;
+    top: 45px;
+    right: -50%;
     height: 100%;
     width: 50%;
-    top: 45px;
     background-color: darkgreen;
 } 
